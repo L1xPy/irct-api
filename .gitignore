@@ -1,0 +1,3 @@
+build/*
+dist/*
+irct_api.egg-info
