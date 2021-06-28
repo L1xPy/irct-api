@@ -2,5 +2,5 @@
 Just a simple api interface for searching in irct.ir.
 
 ## TODO
-* Add `AND` and `OR` support for advance searching.
-* Add more exporting types.
+- [ ] Add `AND` and `OR` support for advance searching.
+- [ ] Add exporting types.
